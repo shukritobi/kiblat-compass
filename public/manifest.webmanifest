@@ -1,0 +1,15 @@
+{
+  "id":"/kiblat-compass/",
+  "name":"QiblaVector - Precision Qibla Compass",
+  "short_name":"QiblaVector",
+  "description":"Find Qibla through geographic bearings, live device headings, sun-shadow verification and maps.",
+  "start_url":"/kiblat-compass/",
+  "scope":"/kiblat-compass/",
+  "display":"standalone",
+  "background_color":"#081b24",
+  "theme_color":"#081b24",
+  "icons":[
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
